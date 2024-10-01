@@ -1,0 +1,3 @@
+nixtla
+pandas
+pytest-dotenv

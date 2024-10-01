@@ -1,0 +1,2 @@
+# forecasting-genai
+Nixtla sample
